@@ -68,7 +68,7 @@ lib/
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/todo-clean-architecture.git
+    git clone https://github.com/M-Anwar-Hussaini/todo-flutter-clean-architecture.git
     cd todo-clean-architecture
     ```
 
